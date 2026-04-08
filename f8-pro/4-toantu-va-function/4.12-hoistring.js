@@ -24,7 +24,7 @@ sayHi(); // "Hi!" (sau khi sayHi được gán giá trị)
 // học hoisting để hiểu cách JavaScript xử lý các khai báo biến và hàm, giúp bạn tránh được những lỗi phổ biến khi sử dụng chúng trong mã của mình.
 
 function run() {
-  return sum(2, 3);
+  return sum(2, 3); // hoisting cho phép gọi hàm sum trước khi nó được khai báo
 
   function sum(a, b) {
     return a + b;

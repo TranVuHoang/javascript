@@ -10,7 +10,7 @@ function swapNumbers(a, b) {
 console.log(swapNumbers(5, 10));
 
 // TH2 không sử dụng biến trung gian
-function swapNumbers2(a, b) {  
+function swapNumbers2(a, b) {
   a = a + b; // a = 5 + 10 = 15
   b = a - b; // b = 15 - 10 = 5
   a = a - b; // a = 15 - 5 = 10
