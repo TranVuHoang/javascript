@@ -93,7 +93,7 @@
 - `storeName = " Cửa hàng bác Sơn";` // Cập nhật tên cửa hàng
 - Note: Trường hợp cập nhật giá trị của một biến đã được khai báo với `const` được dùng để định nghiã những giá trị không thay đổi trong suốt quá trình chạy chương trình.
 
-# Chương 5 Nối chuỗi và nội suy
+# 5 Nối chuỗi và nội suy
 
 <pre>
 # Tìm hiểu về chuỗi
@@ -250,7 +250,36 @@ Tóm tắt:
     - Chú ý đến loại dấu nháy sử dụng để tránh lỗi.
     - Phân biệt rõ ràng giữa nối chuỗi và cộng số
     - Tránh sử dụng + cho cả nối chuỗi và cộng số trong cùng một biểu thức.
-
-
-
 </pre>
+
+# 6 Câu lệnh điều kiện
+
+## Câu lệnh switch case
+
+```
+switch case cơ bản
+
+Cấu trúc switch case trong javascript là một cách để thực hiện các hành động khác
+nhau trên giá trị của một biến hoặc biểu thức. Nó là một lựa chọn thay thế cho
+việc sử udjng nhiều câu lệnh if-else liên tiếp và thường được sử dụng khi bạn cần
+so sánh cùng một biến với nhiều giá trị khác nhau.
+
+Cú pháp:
+```
+
+```js
+switch (biến) {
+  case giá_trị_1:
+    // khối lệnh
+    break;
+  case giá_trị_2:
+    // khối lệnh
+    break;
+  case giá_trị_N:
+    // khối lệnh
+    break;
+  default:
+    // khối lệnh
+    break;
+}
+```
