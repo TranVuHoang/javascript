@@ -29,3 +29,9 @@
 - Phần 6: Làm chủ mảng trong js
 - Phần 7: Hiểu về object trong js...
 
+### 1.2 Tư duy học tập đỉnh cao
+
+- Loại bỏ tư duy "Tôi biết rồi"
+- Sẵn sàng đón nhận kiến thức mới như một "tờ giấy trắng"
+- Học liên tục đều đặn mỗi ngày cho đến khi về đích
+
