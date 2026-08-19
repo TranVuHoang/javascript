@@ -35,3 +35,11 @@
 - Sẵn sàng đón nhận kiến thức mới như một "tờ giấy trắng"
 - Học liên tục đều đặn mỗi ngày cho đến khi về đích
 
+### 1.3 Cách học hiệu quả tại unitop
+
+- Bước 1: Xem bài học + tóm tắt nội dung vào sổ ghi chép
+- Bước 2: Thực hành ngay nội dung sau khi kết thúc bài học
+- Bước 3: Làm bài tập(nếu có) và đăng lên nhóm
+- Bước 4: Ôn lại những bài học trước đó
+  Lưu ý: Quá trình học có bất kỳ khó khăn nào nếu đã tìm cách nhưng chưa giải quyết được
+  bạn đăng lên nhóm messenger để được hỗ trợ.
