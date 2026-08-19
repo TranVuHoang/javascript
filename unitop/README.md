@@ -51,3 +51,11 @@
 - Phần mềm 1: Server ảo Xampp
 - Phần mềm 2: Soạn thảo vscode
 - Lưu ý: nếu bạn đã học html css 21 ngày thì k cần cài lại phần mềm
+
+### 1.5 Cầu trúc thư mục học tập
+
+- Dễ quản lý code
+- Dễ xem lại bài học
+- Phân tách bài học và bài tập thực hành
+- Tạo cảm giác đang ở trong tiến trình "tiến lên mỗi ngày"
+
