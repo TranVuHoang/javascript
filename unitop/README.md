@@ -43,3 +43,11 @@
 - Bước 4: Ôn lại những bài học trước đó
   Lưu ý: Quá trình học có bất kỳ khó khăn nào nếu đã tìm cách nhưng chưa giải quyết được
   bạn đăng lên nhóm messenger để được hỗ trợ.
+
+### 1.4 Phần mềm viết code tốt nhất
+
+`PHẦN MỀM CẦN CÀI ĐẶT`
+
+- Phần mềm 1: Server ảo Xampp
+- Phần mềm 2: Soạn thảo vscode
+- Lưu ý: nếu bạn đã học html css 21 ngày thì k cần cài lại phần mềm
